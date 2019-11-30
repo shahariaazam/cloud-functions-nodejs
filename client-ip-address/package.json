@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ipware": "^2.0.0"
+  },
+  "scripts": {
+    "start": "functions-framework --target=client_ip_address"
+  },
+  "devDependencies": {
+    "@google-cloud/functions-framework": "^1.3.2"
+  }
+}
