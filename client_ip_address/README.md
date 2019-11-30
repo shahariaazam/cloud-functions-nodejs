@@ -12,7 +12,7 @@ To deploy the function to Google Cloud Functions,
 
 **Second**, navigate to this directory by -
 
-`cd client-ip-address`
+`cd client_ip_address`
 
 **Finally**, deploy to Google Cloud Functions by -
 
